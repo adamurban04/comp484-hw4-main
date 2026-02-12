@@ -112,3 +112,13 @@ blockquote {
 	float: left;
 	margin-right: 10px;
 }
+
+/* Timeline: Hide OL numbering, correct spacing */
+.timeline {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.timeline li {
+	margin-bottom: 1em;
+}
